@@ -39,7 +39,7 @@ Hackathon-built issue resolution platform from Vibe-Code-T26 — complaint manag
 I'm a **vibe coder** — I use AI tools (Cursor, Claude, v0, etc.) to build faster than I could manually.  
 This isn't a shortcut. It's a skill. I know what to build, why to build it, and how to direct AI to ship it.
 
-> *"The best developers in 2025 aren't the ones who memorize syntax — they're the ones who know what to ask for."*
+> *"The best developers in 2026 aren't the ones who memorize syntax — they're the ones who know what to ask for."*
 
 ---
 
