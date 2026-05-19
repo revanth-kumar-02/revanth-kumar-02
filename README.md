@@ -2,6 +2,8 @@
 
 > **I build AI-powered web apps** — fast, functional, and with a clear purpose.  
 > First-year CS student. Vibe coder. I use LLM-assisted development to ship real products, not tutorials.
+>
+> 🌐 **[Portfolio](https://page-of-revanth.netlify.app/)**
 
 ---
 
@@ -37,7 +39,7 @@ Hackathon-built issue resolution platform from Vibe-Code-T26 — complaint manag
 I'm a **vibe coder** — I use AI tools (Cursor, Claude, v0, etc.) to build faster than I could manually.  
 This isn't a shortcut. It's a skill. I know what to build, why to build it, and how to direct AI to ship it.
 
-> *"The best developers in 2026 aren't the ones who memorize syntax — they're the ones who know what to ask for."*
+> *"The best developers in 2025 aren't the ones who memorize syntax — they're the ones who know what to ask for."*
 
 ---
 
@@ -72,9 +74,9 @@ This isn't a shortcut. It's a skill. I know what to build, why to build it, and 
 
 ## 📬 Let's Talk
 
-If you're building something with AI and need someone who can ship fast —
+Got a project idea? I build fast with AI — let's ship it together.
 
-**[revanthp0201@gmail.com](mailto:revanthp0201@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/revanth-kumar02/)** · **[Discord](https://discord.gg/3KFBKMzz)**
+**[revanthp0201@gmail.com](mailto:revanthp0201@gmail.com)** · **[Portfolio](https://page-of-revanth.netlify.app/)** · **[LinkedIn](https://www.linkedin.com/in/revanth-kumar02/)** · **[Discord](https://discord.gg/3KFBKMzz)**
 
 ---
 
