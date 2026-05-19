@@ -3,7 +3,7 @@
 > **I build AI-powered web apps** — fast, functional, and with a clear purpose.  
 > First-year CS student. Vibe coder. I use LLM-assisted development to ship real products, not tutorials.
 >
-> 🌐 **[Portfolio](https://page-of-revanth.netlify.app/)**
+> 🌐 **[Portfolio](https://imrevanth.netlify.app/)**
 
 ---
 
@@ -76,7 +76,7 @@ This isn't a shortcut. It's a skill. I know what to build, why to build it, and 
 
 Got a project idea? I build fast with AI — let's ship it together.
 
-**[revanthp0201@gmail.com](mailto:revanthp0201@gmail.com)** · **[Portfolio](https://page-of-revanth.netlify.app/)** · **[LinkedIn](https://www.linkedin.com/in/revanth-kumar02/)** · **[Discord](https://discord.gg/3KFBKMzz)**
+**[revanthp0201@gmail.com](mailto:revanthp0201@gmail.com)** · **[Portfolio](https://imrevanth.netlify.app/)** · **[LinkedIn](https://www.linkedin.com/in/revanth-kumar02/)** · **[Discord](https://discord.gg/3KFBKMzz)**
 
 ---
 
