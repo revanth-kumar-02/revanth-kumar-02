@@ -1,7 +1,7 @@
 # hey, I'm revanth 👋
 
 > **I build AI-powered web apps** — fast, functional, and with a clear purpose.  
-> First-year CS student. Vibe coder. I use LLM-assisted development to ship real products, not tutorials.
+> Second-year CS student. Vibe coder. I use LLM-assisted development to ship real products, not tutorials.
 >
 > 🌐 **[Portfolio](https://imrevanth.netlify.app/)**
 
