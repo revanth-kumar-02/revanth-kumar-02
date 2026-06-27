@@ -45,7 +45,7 @@ This isn't a shortcut. It's a skill. I know what to build, why to build it, and 
 
 ## 📍 Right Now
 
-- 🔭 Building out **relearn.ai** — making it production-ready
+- 🔭 Building out **Acadex** — making it production-ready
 - 🌱 Getting deeper into full-stack architecture and LLM APIs
 - 💼 Looking for **internship opportunities** in web dev / AI tooling
 - 🤝 Open to collabs on AI-powered tools that solve real problems
@@ -80,4 +80,4 @@ Got a project idea? I build fast with AI — let's ship it together.
 
 ---
 
-<sub>First-year student. Real projects. No fluff.</sub>
+<sub>Second-year student. Real projects. No fluff.</sub>
