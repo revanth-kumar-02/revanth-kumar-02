@@ -131,15 +131,6 @@ An issue resolution and complaint management platform built solo under hackathon
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=revanth-kumar-02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="65%"/>
-
-</div>
 
 ---
 
