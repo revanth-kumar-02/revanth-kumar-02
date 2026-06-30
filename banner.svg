@@ -1,0 +1,95 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#150d1f"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2d78"/>
+      <stop offset="50%" stop-color="#ff7a18"/>
+      <stop offset="100%" stop-color="#ffd000"/>
+    </linearGradient>
+    <linearGradient id="poly-grad-1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff2d78" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ff2d78" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="poly-grad-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame-clip">
+      <rect width="900" height="220" rx="14"/>
+    </clipPath>
+    <style>
+      .name { font-family: 'Segoe UI', system-ui, sans-serif; font-size: 56px; font-weight: 700; fill: url(#text-grad); }
+      .tag { font-family: 'SF Mono', Monaco, monospace; font-size: 17px; fill: #9d8bb0; }
+      .node { fill: #00f0ff; }
+      .node-pink { fill: #ff2d78; }
+      .edge { stroke: #3a2d52; stroke-width: 1; }
+      .edge-bright { stroke: #00f0ff; stroke-width: 1; opacity: 0.4; }
+      .hex { stroke: #3a2d52; stroke-width: 1; fill: none; }
+      @keyframes drift {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 1; }
+      }
+      @keyframes rotate-slow {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes dash-flow {
+        to { stroke-dashoffset: -24; }
+      }
+      .n1 { animation: drift 4s ease-in-out infinite; }
+      .n2 { animation: drift 5s ease-in-out infinite 0.5s; }
+      .n3 { animation: drift 3.5s ease-in-out infinite 1s; }
+      .n4 { animation: drift 4.5s ease-in-out infinite 1.5s; }
+      .n5 { animation: drift 5.5s ease-in-out infinite 0.8s; }
+      .p1 { animation: pulse 2.5s ease-in-out infinite; }
+      .p2 { animation: pulse 3s ease-in-out infinite 0.7s; }
+      .p3 { animation: pulse 2.2s ease-in-out infinite 1.3s; }
+      .spin { transform-origin: 800px 110px; animation: rotate-slow 30s linear infinite; }
+      .flow { stroke-dasharray: 4 8; animation: dash-flow 1.5s linear infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame-clip)">
+    <rect width="900" height="220" fill="url(#bg-grad)"/>
+
+    <polygon points="550,-20 900,40 900,160 680,240" fill="url(#poly-grad-1)"/>
+    <polygon points="780,-30 920,20 920,220 850,240" fill="url(#poly-grad-2)"/>
+
+    <g class="spin">
+      <polygon class="hex" points="800,70 835,90 835,130 800,150 765,130 765,90"/>
+      <polygon class="hex" points="800,40 860,75 860,145 800,180 740,145 740,75"/>
+    </g>
+
+    <g opacity="0.8">
+      <line class="edge" x1="640" y1="40" x2="720" y2="75"/>
+      <line class="edge" x1="720" y1="75" x2="800" y2="55"/>
+      <line class="edge flow" x1="800" y1="55" x2="860" y2="95"/>
+      <line class="edge" x1="800" y1="55" x2="780" y2="130"/>
+      <line class="edge flow" x1="780" y1="130" x2="850" y2="165"/>
+      <line class="edge" x1="780" y1="130" x2="700" y2="150"/>
+      <line class="edge" x1="700" y1="150" x2="720" y2="75"/>
+      <line class="edge" x1="860" y1="95" x2="850" y2="165"/>
+    </g>
+
+    <circle class="node node-pink n1 p1" cx="640" cy="40" r="4"/>
+    <circle class="node n2 p2" cx="720" cy="75" r="6"/>
+    <circle class="node node-pink n3 p3" cx="800" cy="55" r="5"/>
+    <circle class="node n4 p1" cx="860" cy="95" r="5"/>
+    <circle class="node node-pink n5 p2" cx="780" cy="130" r="6"/>
+    <circle class="node n1 p3" cx="700" cy="150" r="4"/>
+    <circle class="node node-pink n2 p1" cx="850" cy="165" r="5"/>
+
+    <text x="50" y="105" class="name">revanth</text>
+    <text x="50" y="140" class="tag">building with AI · shipping real products</text>
+    <rect x="50" y="155" width="430" height="2" fill="#2e2440"/>
+    <text x="50" y="180" class="tag" fill="#00f0ff">└─ vibecoder · frontend · llm integrations</text>
+  </g>
+</svg>
