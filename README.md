@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/revanth-kumar-02/revanth-kumar-02/main/banner.svg" alt="revanth banner" width="100%"/>
+<img src="banner.svg" alt="revanth banner" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+AI-powered+web+apps;Second-year+CS+student;Vibe+cod[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+AI-powered+web+apps;Second-year+CS+student;Vibe+coder+%E2%80%94+LLM-assisted+development;I+ship+real+products%2C+not+tutorials)](https://git.io/typing-svg)
 
 **[🌐 Portfolio](https://imrevanth.netlify.app/)**
 
@@ -28,7 +28,7 @@ This isn't a shortcut. It's a skill. I know what to build, why to build it, and 
 
 ### relearn.ai — AI-powered learning ecosystem
 
-An AI-driven learning platform that builds personalized study plans for each user instead of relying on generic course structures. The system breaks down learning goals into structured workflows, gene[...]
+An AI-driven learning platform that builds personalized study plans for each user instead of relying on generic course structures. The system breaks down learning goals into structured workflows, generates AI-assisted lessons tailored to pace and skill level, and tracks progress through a daily workspace so students always know what to work on next. Built to remove the guesswork from self-directed learning.
 
 `TypeScript` · `React` · `LLM APIs`
 
@@ -38,7 +38,7 @@ An AI-driven learning platform that builds personalized study plans for each use
 
 ### Gradely — Room-based evaluation platform
 
-A modern evaluation system built around collaborative assessment rooms instead of one-off grading. Supports three distinct role-based portals (student, teacher, admin), each with its own workflow, so [...]
+A modern evaluation system built around collaborative assessment rooms instead of one-off grading. Supports three distinct role-based portals (student, teacher, admin), each with its own workflow, so peer reviews, multi-role evaluations, and real-time scoring all happen inside a shared dashboard architecture. Designed to make group assessments feel structured rather than chaotic.
 
 `JavaScript` · `Real-time Systems` · `Dashboard Architecture`
 
@@ -48,7 +48,7 @@ A modern evaluation system built around collaborative assessment rooms instead o
 
 ### LearnStation — Gamified learning platform
 
-Takes the core idea of structured learning and wraps it in game mechanics — XP, achievement badges, streaks, and skill-based progression — so that completing coding challenges and interactive ques[...]
+Takes the core idea of structured learning and wraps it in game mechanics — XP, achievement badges, streaks, and skill-based progression — so that completing coding challenges and interactive quests feels like leveling up rather than doing homework. Built on Supabase for persistent user progress and personalized learning paths that adapt as skills grow.
 
 `TypeScript` · `React` · `Supabase` · `Gamification`
 
@@ -58,7 +58,7 @@ Takes the core idea of structured learning and wraps it in game mechanics — XP
 
 ### GitHub Companion — Developer workflow CLI
 
-A Python-based command-line tool built to make everyday GitHub workflows faster. Pulls repository insights and contribution heatmaps directly into the terminal, cutting down the need to tab back to th[...]
+A Python-based command-line tool built to make everyday GitHub workflows faster. Pulls repository insights and contribution heatmaps directly into the terminal, cutting down the need to tab back to the browser for routine checks. Focused on small productivity wins that add up across a normal coding session.
 
 `Python` · `GitHub API` · `CLI` · `Developer Tools`
 
@@ -68,7 +68,7 @@ A Python-based command-line tool built to make everyday GitHub workflows faster.
 
 ### Acadex — Native Android academic management app
 
-A native Android app built with Kotlin and Jetpack Compose to give students one streamlined workspace for academic life — assignments, notes, deadlines, and other academic activity tracked in a sing[...]
+A native Android app built with Kotlin and Jetpack Compose to give students one streamlined workspace for academic life — assignments, notes, deadlines, and other academic activity tracked in a single place instead of scattered across apps. Built with Material 3 for a clean, modern interface, and currently being pushed toward production-ready.
 
 `Kotlin` · `Jetpack Compose` · `Android` · `Material 3`
 
@@ -78,7 +78,7 @@ A native Android app built with Kotlin and Jetpack Compose to give students one 
 
 ### ResolveHub — Hackathon-built in 24hrs (Vibe-Code T26)
 
-An issue resolution and complaint management platform built solo under hackathon time pressure at Vibe-Code T26. Covers workflow tracking from issue submission to resolution, built fast as a working M[...]
+An issue resolution and complaint management platform built solo under hackathon time pressure at Vibe-Code T26. Covers workflow tracking from issue submission to resolution, built fast as a working MVP rather than a polished long-term product — a good example of shipping under constraints rather than iterating endlessly.
 
 `TypeScript` · `React` · `Workflow Systems`
 
@@ -88,7 +88,7 @@ An issue resolution and complaint management platform built solo under hackathon
 
 ## 📍 Right Now
 
-```
+```text
 🔭 building   Acadex — making it production-ready
 🌱 learning   full-stack architecture & LLM APIs
 💼 seeking    internships in web dev / AI tooling
@@ -137,10 +137,7 @@ An issue resolution and complaint management platform built solo under hackathon
 
 <div align="center">
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=revanth-kumar-02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=revanth-kumar-02&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=revanth-kumar-02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="65%"/>
 
 </div>
 
@@ -150,7 +147,7 @@ An issue resolution and complaint management platform built solo under hackathon
 
 Got a project idea? I build fast with AI — let's ship it together.
 
-**[revanthp0201@gmail.com](mailto:revanthp0201@gmail.com)** · **[Portfolio](https://imrevanth.netlify.app/)** · **[LinkedIn](https://www.linkedin.com/in/revanth-kumar02/)** · **[Discord](https://di[...]
+**[revanthp0201@gmail.com](mailto:revanthp0201@gmail.com)** · **[Portfolio](https://imrevanth.netlify.app/)** · **[LinkedIn](https://www.linkedin.com/in/revanth-kumar02/)** · **[Discord](https://discord.gg/3KFBKMzz)**
 
 ---
 
